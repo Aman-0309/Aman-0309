@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills in Full Stack Web Development.<br><br>💻 Exploring Frontend with React, Tailwind CSS, and JavaScript.<br><br>✨ I am a FOSS CLUB official Member.<br><br>📘 Practicing Data Structures & Algorithms in C++.<br><br>🚀 Always open to learning new technologies and working on real-world projects.<br><br>💬 Ask me about web development, problem-solving in C++, or anything tech-related.<br><br>
+🔭 I’m currently working on improving my skills in Full Stack Web Development.<br><br>💻 Exploring Frontend with React, Tailwind CSS, and JavaScript.<br><br>✨.<br><br>📘 Practicing Data Structures & Algorithms in C++.<br><br>🚀 Always open to learning new technologies and working on real-world projects.<br><br>💬 Ask me about web development, problem-solving in C++, or anything tech-related.<br><br>
 
 
 ## 🌐 Socials:
